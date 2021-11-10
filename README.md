@@ -1,5 +1,5 @@
 # klovik
-**Junior C# & Unity developer**
+**Junior C# & Unity developer from Russia**
 
 Also worked with:
 
