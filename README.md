@@ -1,7 +1,6 @@
 # klovik
-**Junior C# & Unity developer**
 
-Also worked with:
+Worked with:
 
 > MySQL
 
